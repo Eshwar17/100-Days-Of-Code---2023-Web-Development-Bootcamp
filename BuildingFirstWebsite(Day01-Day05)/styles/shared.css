@@ -1,1 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans&family=Nunito&family=Open+Sans:wght@400;700&family=Roboto&family=Source+Sans+Pro:wght@200;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans&family=Nunito&family=Open+Sans:wght@400;700&family=Oswald&family=Roboto&family=Source+Sans+Pro:wght@200;600&display=swap");
 
+body {
+    text-align: center;
+    background-color: rgb(233, 215, 207);
+    color: rgb(83, 75, 75);
+  }
+  h1 {
+    font-family: "Oswald", sans-serif;
+  }
+  p {
+    font-family: "Fira Sans", sans-serif;
+  }
+  a {
+      text-decoration: none;
+      font-family: 'Fira Sans', sans-serif;
+      color: rgb(167, 1, 78);
+  }
+  a:hover {
+      text-decoration: underline;
+  }
